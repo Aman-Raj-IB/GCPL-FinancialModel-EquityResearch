@@ -18,12 +18,12 @@
 
 ## 📁 What’s Inside This Repo?
 
-| 📄 File                                   | 📌 Description                                                               |
-| ---------------------------------------- | ------------------------------------------------------------------------------ |
-| `Gcpl Advance Model.pdf`                 | 📊 Complete financial model (2020–2034): P&L, BS, CF, KPIs, scenario analysis  |
-| `README.md`                              | 📘 You're reading it! Repository overview                                      |
-                                           | 📈 A markdown summary of the investment thesis                               
-                                           | 🖼️ Key charts/ratios and model highlights                                      |
+| 📄 Fil    
+| 📌 Description                                                               |                                                                                                    | ------------------------------------------------------------------------------ |
+| 📊 Complete financial model (2020–2034): P&L, BS, CF, KPIs, scenario analysis  |
+| 📘 You're reading it! Repository overview                                      |
+| 📈 A markdown summary of the investment thesis                               
+| 🖼️ Key charts/ratios and model highlights                                      |
 
 ---
 
